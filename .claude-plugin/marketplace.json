@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "srivalli-poc-plugins",
+  "version": "1.0.0",
+  "description": "A marketplace containing demonstration Claude plugins.",
+  "owner": {
+    "name": "Srivalli"
+  },
+  "plugins": [
+    {
+      "name": "poc-assistant",
+      "source": "./plugins/poc-assistant",
+      "description": "A small demonstration plugin containing a skill, subagent, command, and hook.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Srivalli"
+      },
+      "category": "development"
+    }
+  ]
+}
