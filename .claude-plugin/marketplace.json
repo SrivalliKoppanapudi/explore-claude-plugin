@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "poc-assistant",
-      "source": "./plugins/poc-assistant",
+      "source": "./plugins/researcher-plugin",
       "description": "A small demonstration plugin containing a skill, subagent, command, and hook.",
       "version": "1.0.0",
       "author": {
