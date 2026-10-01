@@ -1,5 +1,5 @@
 {
-  "name": "poc-assistant",
+  "name": "researcher-plugin",
   "version": "1.0.0",
   "description": "A small demonstration plugin containing a skill, subagent, command, hook.",
   "author": {
